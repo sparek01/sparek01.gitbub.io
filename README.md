@@ -1,1 +1,1 @@
-# sparek01.gitbub.io
+# sparek01.github.io
